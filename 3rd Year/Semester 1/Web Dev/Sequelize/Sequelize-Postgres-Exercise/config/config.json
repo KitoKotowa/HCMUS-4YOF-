@@ -1,0 +1,29 @@
+{
+  "development": {
+    "username": "kiet",
+    "password": "lvZrUaVftJie7wE7ped6Fdfub8fHtmtr",
+    "database": "dbweek8",
+    "host": "dpg-clfbahdadtrs73eajufg-a.oregon-postgres.render.com",
+    "dialect": "postgres",
+    "dialectOptions": {
+      "ssl": {
+        "require": true,
+        "rejectUnauthorized": false
+      }
+    }
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}

@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "*.rmd": "markdown",
+        "new": "cpp",
+        "fstream": "c",
+        "typeinfo": "cpp",
+        "syscall.h": "c"
+    }
+}

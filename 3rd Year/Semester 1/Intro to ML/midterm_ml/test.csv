@@ -1,0 +1,101 @@
+Gender,Age,Subscription type,Usage,Satisfaction,Churn
+Male,<25,Monthly,Low,1,Yes
+Female,<25,Quarterly,Medium,2,No
+Male,<25,Annual,High,3,Yes
+Female,<25,Lifetime,Very High,4,No
+Male,25-40,Monthly,Low,2,Yes
+Female,25-40,Quarterly,Medium,3,No
+Male,25-40,Annual,High,4,Yes
+Female,25-40,Lifetime,Very High,5,No
+Male,>40,Monthly,Low,3,No
+Female,>40,Quarterly,Medium,4,Yes
+Male,>40,Annual,High,5,No
+Female,>40,Lifetime,Very High,1,Yes
+Male,<25,Monthly,Low,2,No
+Female,<25,Quarterly,Medium,5,Yes
+Male,<25,Annual,High,1,No
+Female,<25,Lifetime,Very High,3,Yes
+Male,25-40,Monthly,Low,4,No
+Female,25-40,Quarterly,Medium,1,Yes
+Male,25-40,Annual,High,2,No
+Female,25-40,Lifetime,Very High,4,Yes
+Male,>40,Monthly,Low,5,No
+Female,>40,Quarterly,Medium,2,Yes
+Male,>40,Annual,High,3,No
+Female,>40,Lifetime,Very High,1,Yes
+Male,<25,Monthly,Low,2,Yes
+Female,<25,Quarterly,Medium,4,No
+Male,<25,Annual,High,1,Yes
+Female,<25,Lifetime,Very High,3,No
+Male,25-40,Monthly,Low,3,Yes
+Female,25-40,Quarterly,Medium,5,No
+Male,25-40,Annual,High,2,Yes
+Female,25-40,Lifetime,Very High,4,No
+Male,>40,Monthly,Low,4,No
+Female,>40,Quarterly,Medium,1,Yes
+Male,>40,Annual,High,3,No
+Female,>40,Lifetime,Very High,5,No
+Male,<25,Monthly,High,1,Yes
+Female,<25,Quarterly,Very High,3,No
+Male,<25,Annual,Low,2,Yes
+Female,<25,Lifetime,Medium,4,No
+Male,25-40,Monthly,Very High,2,Yes
+Female,25-40,Quarterly,Low,4,No
+Male,25-40,Annual,Medium,5,Yes
+Female,25-40,Lifetime,High,1,No
+Male,>40,Monthly,Low,5,No
+Female,>40,Quarterly,High,2,Yes
+Male,>40,Annual,Very High,3,No
+Female,>40,Lifetime,Medium,4,No
+Male,<25,Monthly,Medium,3,Yes
+Female,<25,Quarterly,Very High,5,No
+Male,<25,Annual,Low,4,Yes
+Female,<25,Lifetime,Medium,1,No
+Male,25-40,Monthly,Very High,5,Yes
+Female,25-40,Quarterly,Low,2,No
+Male,25-40,Annual,Medium,3,Yes
+Female,25-40,Lifetime,High,4,No
+Male,<25,Monthly,Low,1,Yes
+Female,<25,Quarterly,Medium,2,No
+Male,<25,Annual,High,3,Yes
+Female,<25,Lifetime,Very High,4,No
+Male,25-40,Monthly,Low,2,Yes
+Female,25-40,Quarterly,Medium,3,No
+Male,25-40,Annual,High,4,Yes
+Female,25-40,Lifetime,Very High,5,No
+Male,>40,Monthly,Low,3,No
+Female,>40,Quarterly,Medium,4,Yes
+Male,>40,Annual,High,5,No
+Female,>40,Lifetime,Very High,1,Yes
+Male,<25,Monthly,High,2,Yes
+Female,<25,Quarterly,Very High,3,No
+Male,<25,Annual,Low,4,Yes
+Female,<25,Lifetime,Medium,5,No
+Male,25-40,Monthly,Very High,3,Yes
+Female,25-40,Quarterly,High,4,No
+Male,25-40,Annual,Low,5,Yes
+Female,25-40,Lifetime,Medium,2,No
+Male,>40,Monthly,High,1,Yes
+Female,>40,Quarterly,Medium,2,No
+Male,>40,Annual,Very High,3,Yes
+Female,>40,Lifetime,Low,4,No
+Male,<25,Monthly,Medium,5,Yes
+Female,<25,Quarterly,Very High,1,No
+Male,<25,Annual,Low,2,Yes
+Female,<25,Lifetime,Medium,3,No
+Male,25-40,Monthly,Very High,4,Yes
+Female,25-40,Quarterly,High,5,No
+Male,25-40,Annual,Low,1,Yes
+Female,25-40,Lifetime,Medium,2,No
+Male,<25,Monthly,High,3,Yes
+Female,<25,Quarterly,Very High,4,No
+Male,<25,Annual,Medium,2,Yes
+Female,<25,Lifetime,Low,5,No
+Male,25-40,Monthly,Medium,4,Yes
+Female,25-40,Quarterly,High,1,No
+Male,25-40,Annual,Very High,5,Yes
+Female,25-40,Lifetime,Low,3,No
+Male,>40,Monthly,Low,2,Yes
+Female,>40,Quarterly,Medium,4,No
+Male,>40,Annual,High,5,Yes
+Female,>40,Lifetime,Very High,3,No

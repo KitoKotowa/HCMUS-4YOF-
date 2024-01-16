@@ -1,0 +1,189 @@
+[
+    {
+        "id": "762e36eea7b08306",
+        "type": "tab",
+        "label": "Flow 2",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "94c9c755e45fcab6",
+        "type": "ui_text_input",
+        "z": "762e36eea7b08306",
+        "name": "",
+        "label": "mssv",
+        "tooltip": "",
+        "group": "6c1ba2735314f7b1",
+        "order": 3,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "mode": "text",
+        "delay": 300,
+        "topic": "topic",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "msg",
+        "x": 350,
+        "y": 180,
+        "wires": [
+            [
+                "1b606420d0aca34d"
+            ]
+        ]
+    },
+    {
+        "id": "af5b52446678fbcc",
+        "type": "ui_button",
+        "z": "762e36eea7b08306",
+        "name": "",
+        "group": "93189c553a92dfb8",
+        "order": 9,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "button",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 350,
+        "y": 240,
+        "wires": [
+            [
+                "1b606420d0aca34d"
+            ]
+        ]
+    },
+    {
+        "id": "1b606420d0aca34d",
+        "type": "mqtt out",
+        "z": "762e36eea7b08306",
+        "name": "",
+        "topic": "topic",
+        "qos": "",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "7c6b8317903a57c7",
+        "x": 570,
+        "y": 240,
+        "wires": []
+    },
+    {
+        "id": "b52dea4a139d62f4",
+        "type": "mqtt in",
+        "z": "762e36eea7b08306",
+        "name": "",
+        "topic": "topic",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "7c6b8317903a57c7",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 570,
+        "y": 180,
+        "wires": [
+            [
+                "110c9ae3396544da"
+            ]
+        ]
+    },
+    {
+        "id": "110c9ae3396544da",
+        "type": "ui_text",
+        "z": "762e36eea7b08306",
+        "group": "93189c553a92dfb8",
+        "order": 10,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "text",
+        "format": "{{msg.payload}}",
+        "layout": "row-spread",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 770,
+        "y": 180,
+        "wires": []
+    },
+    {
+        "id": "6c1ba2735314f7b1",
+        "type": "ui_group",
+        "name": "Group 1",
+        "tab": "100374480efc1ff7",
+        "order": 1,
+        "disp": true,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "93189c553a92dfb8",
+        "type": "ui_group",
+        "name": "UI Elements",
+        "tab": "fa9fa5ee65751255",
+        "order": 1,
+        "disp": true,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "7c6b8317903a57c7",
+        "type": "mqtt-broker",
+        "name": "",
+        "broker": "broker.hivemq.com",
+        "port": "1883",
+        "clientid": "",
+        "autoConnect": true,
+        "usetls": false,
+        "protocolVersion": "4",
+        "keepalive": "60",
+        "cleansession": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthPayload": "",
+        "birthMsg": {},
+        "closeTopic": "",
+        "closeQos": "0",
+        "closePayload": "",
+        "closeMsg": {},
+        "willTopic": "",
+        "willQos": "0",
+        "willPayload": "",
+        "willMsg": {},
+        "userProps": "",
+        "sessionExpiry": ""
+    },
+    {
+        "id": "100374480efc1ff7",
+        "type": "ui_tab",
+        "name": "Home",
+        "icon": "dashboard",
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "fa9fa5ee65751255",
+        "type": "ui_tab",
+        "name": "Login",
+        "icon": "dashboard",
+        "disabled": false,
+        "hidden": false
+    }
+]
