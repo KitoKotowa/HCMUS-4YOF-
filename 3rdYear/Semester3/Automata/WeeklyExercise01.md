@@ -177,6 +177,3 @@ Vì $(\mathcal L_1\mathcal L_2)^* = \{s: s \in (\mathcal L_1 \mathcal L_2)^* \} 
 và $\mathcal L_1^*\mathcal L_2^* = \{st: s \in \mathcal L_1^*  \wedge t \in \mathcal L_2^* \}$
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
-<script type="text/x-mathjax-config">
-  MathJax.Hub.Config({ tex2jax: {inlineMath: [['$', '$']]}, messageStyle: "none" });
-</script>
