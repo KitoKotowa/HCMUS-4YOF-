@@ -1,0 +1,431 @@
+NL" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Networking-MPSSVC-Drv.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Networking-MPSSVC-Svc.Resources" version="10.0.19041.4291" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Microsoft-Windows-DevQueryBroker.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Microsoft-Windows-BrokerBase.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="en-US" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Microsoft-Windows-SystemEventsBroker.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Microsoft-Windows-TimeBroker.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Microsoft-Windows-MSF-Core.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Microsoft-Windows-NetworkConnectionBroker.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Microsoft-Windows-Network-QoS-Pacer.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Microsoft-Windows-Network-Security.Resources" version="10.0.19041.3636" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Microsoft-Windows-Network-Security-Tracing.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="en-US" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Microsoft-Windows-PDC.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Microsoft-Windows-PushNotifications-Provider-Library.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Microsoft-Windows-PushNotifications-Developer-Library.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Microsoft-Windows-PushNotifications-Platform-Library.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Microsoft-Windows-PushNotifications-Service.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Microsoft-Windows-PushNotifications-UserService.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Microsoft-Windows-PsmCoreServer.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="en-US" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Microsoft-Windows-Security-AADBrokerPlugin.AppxMain.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Microsoft-Windows-DevDispItemProvider.Resources" version="10.0.19041.3636" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Microsoft-Windows-Globalization.Resources" version="10.0.19041.3636" processorArchitecture="amd64" language="en-US" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Microsoft-Windows-Networking-BackgroundTransfer.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="en-US" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Microsoft-Windows-Networking.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Microsoft-Windows-Networking-Prefetching.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="en-US" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Microsoft-Windows-Networking-Sockets-PushEnabledApplication.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="en-US" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Microsoft-Windows-Storage-Search-Library.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Microsoft-Windows-TwinApi-AppCore.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="en-US" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Microsoft-Windows-Web-Http.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Microsoft-Windows-StateManager.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="en-US" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Microsoft-OneCore-Capability-Authorization.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="en-US" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Microsoft-Windows-Auto-Time-Zone-Updater-Service.Resources" version="10.0.19041.3636" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Microsoft-Windows-CertificateServices-certca-dll.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Microsoft-Windows-CertificationAuthorityClient.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Microsoft-Windows-mskeyprotcli-dll.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Microsoft-Windows-mskeyprotect-dll.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Microsoft-Windows-Security-negoexts.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="en-US" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Microsoft-Windows-X509CertificateEnrollment.Resources" version="10.0.19041.3636" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Microsoft-Windows-Devices-Custom.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Microsoft-Windows-Devices-Bluetooth.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="en-US" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Microsoft-Client-License-Platform-Service.Resources" version="10.0.19041.3636" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Microsoft-Client-Licensing-Platform-Client.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Microsoft-OneCore-CapabilityAccess-Manager.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Microsoft-OneCore-CapabilityAccess-SettingsHandlers.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Microsoft-Windows-Devices-LowLevel-WinRT.Resources" version="10.0.19041.3636" processorArchitecture="amd64" language="en-US" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Microsoft-Windows-LDDMCore.Resources" version="10.0.19041.3636" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Microsoft-Windows-Security-NGC-CredProv.Resources" version="10.0.19041.3758" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Microsoft-Windows-Security-NGC-CryptNgc.Resources" version="10.0.19041.3636" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Microsoft-Windows-Security-NGC-CtnrSvc.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Microsoft-Windows-Security-NGC-KeyEnum.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Microsoft-Windows-Security-NGC-KSPSvc.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Microsoft-Windows-Security-Ngc-Recovery.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Microsoft-Windows-UpdatePolicy.Resources" version="10.0.19041.3758" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Microsoft-Windows-WinRT-WindowsGraphics.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="en-US" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Microsoft-Windows-BrokerInfrastructure.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Microsoft-Windows-MSXML60.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Microsoft-Windows-Security-Vault.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Microsoft-Windows-Security-VaultCmd.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="en-US" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Microsoft-Windows-ImmersiveShell-ServiceProvider.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Microsoft-Windows-Security-WebAuth.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Microsoft-Windows-User32.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Microsoft-Windows-NowPlayingSessionManagerDesktopProvider.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Microsoft-Windows-CloudDomainJoinAUG.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Microsoft-Windows-CommandPrompt.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="en-US" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Microsoft-Windows-FileSystemUtilityLibraries.Resources" version="10.0.19041.3636" processorArchitecture="amd64" language="en-US" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Microsoft-Windows-ALG.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Microsoft-Windows-WinBio.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Microsoft-Windows-WBioSrvc.Resources" version="10.0.19041.3636" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Microsoft-Windows-Security-Biometrics-CredentialProvider.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="msmouse.inf.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Microsoft-Windows-IndirectDisplays-ClassExtension.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="en-US" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Microsoft-Windows-IndirectDisplays-KernelMode.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="miradisp.inf.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="WSDApi.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="sensorshidclassdriver.inf.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="bth.inf.Resources" version="10.0.19041.3636" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="bthlcpen.inf.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="bthleenum.inf.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="bthoob.inf.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="umpass.inf.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Microsoft-OneCore-Bluetooth-BthServ.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Microsoft-OneCore-Bluetooth-Service.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="en-US" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Microsoft-Windows-CoreSystem-Bluetooth-DAFProvider.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="en-US" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Microsoft-Windows-CoreSystem-Bluetooth-Telemetry.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="en-US" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="hidbth.inf.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="hidbthle.inf.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="hidvhf.inf.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="nl-NL" pub

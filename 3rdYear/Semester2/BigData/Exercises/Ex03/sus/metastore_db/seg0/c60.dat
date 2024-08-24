@@ -1,0 +1,240 @@
+licKeyToken="31bf3856ad364e35" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="input.inf.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Microsoft-Windows-MsHidUmdf.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="buttonconverter.inf.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="hidi2c.inf.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="hidinterrupt.inf.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="hidspi_km.inf.Resources" version="10.0.19041.3636" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="keyboard.inf.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="ucmucsiacpiclient.inf.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="mausbhost.inf.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="usb.inf.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="usbhub3.inf.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="usbport.inf.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="usbstor.inf.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="usbxhci.inf.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="winusb.inf.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="hidcfu.inf.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="storfwupdate.inf.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="sdbus.inf.Resources" version="10.0.19041.3636" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="sdstor.inf.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="tpm.inf.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Microsoft-Windows-ncrypt-platformKeyStorage-dll.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Microsoft-Windows-TPM-CoreProvisioning.Resources" version="10.0.19041.4291" processorArchitecture="amd64" language="en-US" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Microsoft-Windows-TPM-Tool.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="en-US" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="fusionv2.inf.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Microsoft-Windows-Sensors-Core.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Microsoft-Windows-Rights-Management-Client-v2-Core.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Microsoft-Windows-DirectoryServices-NTDSAPI.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="en-US" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Microsoft-Windows-OneCore-DeviceAssociationFramework.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="windowstrustedrtproxy.inf.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Microsoft-Windows-Storage-QoS-Filter.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Microsoft-OneCore-DriverVerifier-Tools.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="en-US" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Microsoft-Windows-Enterprise-Management-Onecore.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Microsoft-Windows-EventLog.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Microsoft-Windows-EventLog-Api.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Microsoft-Windows-EventLog-CommandLine.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="en-US" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Microsoft-Windows-NetworkUX-MBMediaManager.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="en-US" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Microsoft-Windows-SHCore.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Microsoft-OneCore-DictationManager.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Microsoft-Windows-Speech-Windows.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Windows-Media-Speech-WinRT.Resources" version="10.0.19041.3636" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Microsoft-Windows-SystemSettings-SettingsHandlers-Devices.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Microsoft-Windows-SystemSettings-SettingsHandlers-Authentication.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="en-US" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Microsoft-Windows-Update-OrchestratorCore.Resources" version="10.0.19041.3693" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Microsoft-Windows-Update-MusNotificationUxExe.Resources" version="10.0.19041.3693" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Microsoft-Windows-Update-UX-MusUpdateHandlers.Resources" version="10.0.19041.3996" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Microsoft-Windows-SystemSettings-SettingsHandlers-OptionalFeatures.Resources" version="10.0.19041.1" processorArchitecture="amd64" language="en-US" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Microsoft-Windows-Update-MusNotifyIconExe.Resources" version="10.0.19041.3693" processorArchitecture="amd64" language="nl-NL" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+</assembly>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
